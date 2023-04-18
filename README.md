@@ -43,8 +43,15 @@ Before predicting the data must train the model
 
 ![image](https://user-images.githubusercontent.com/58096503/232578173-e0ca0f54-0b86-4b78-8f3e-af9e9f5d50e2.png)
 
+# 【Demo】
+
+Because the signal strength is not strong enough, so that the air conditioner cannot receive. The new device arduino Mega250  was acted as air conditioner
 
 
 
+https://user-images.githubusercontent.com/58096503/232726221-3680c03d-22af-4c03-9c34-4c10d64c502c.mp4
 
+---
+
+In the future, more data can be collected to improve the accuracy of the model and improve the module that emits infrared rays, so that the air conditioner can better receive complete information.
 
