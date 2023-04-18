@@ -46,6 +46,7 @@ Before predicting the data must train the model
 # 【Demo】
 
 Because the signal strength is not strong enough the air conditioner cannot receive. The new device Arduino Mega 2560 acted as an air conditioner. 
+
 The work is Arduino UNO will send the data to Arduino Mega 2560, when received by the Arduino Mega 2560 thet means successfully control the air conditioner.
 
 
