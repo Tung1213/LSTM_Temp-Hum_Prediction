@@ -34,7 +34,7 @@ Before predicting the data must train the model
 1. First the data feed into the LSTM network to train
 2. Second the data feed into trained model to predict the dataTemperature
 3. the result prediction include the DateTime, Temperature, and Humidity
-
+4. predict the data per hour
 
 ![image](https://user-images.githubusercontent.com/58096503/232574935-5786376c-3fc3-4b25-ae72-057de30dd2d3.png)
 
@@ -45,8 +45,8 @@ Before predicting the data must train the model
 
 # 【Demo】
 
-Because the signal strength is not strong enough, so that the air conditioner cannot receive. The new device arduino Mega250  was acted as air conditioner
-
+Because the signal strength is not strong enough the air conditioner cannot receive. The new device Arduino Mega 2560 acted as an air conditioner. 
+The work is Arduino UNO will send the data to Arduino Mega 2560, when received by the Arduino Mega 2560 thet means successfully control the air conditioner.
 
 
 https://user-images.githubusercontent.com/58096503/232726221-3680c03d-22af-4c03-9c34-4c10d64c502c.mp4
